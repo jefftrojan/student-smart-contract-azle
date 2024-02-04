@@ -1,0 +1,7 @@
+service: () -> {
+    addSubject: (text, text, text) -> ();
+    createStudentRecord: (text, vec nat8) -> ();
+    deleteStudentRecord: (text) -> ();
+    getStudentRecord: (text) -> (vec nat8) query;
+    updateStudentRecord: (text, vec nat8) -> ();
+}

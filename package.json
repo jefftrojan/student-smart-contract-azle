@@ -1,0 +1,16 @@
+{
+  "name": "dfinity_project",
+  "main": "index.js",
+  "dependencies": {
+    "@dfinity/agent": "^0.19.2",
+    "@dfinity/candid": "^0.19.2",
+    "azle": "^0.18.6",
+    "uuid": "^9.0.0"
+  },
+  "engines": {
+    "node": "^12 || ^14 || ^16 || ^18"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.1"
+  }
+}
